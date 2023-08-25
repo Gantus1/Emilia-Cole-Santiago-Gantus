@@ -1,0 +1,34 @@
+.hsh {
+    font-size: 15px;
+    position: relative;
+    left: 30px;
+    color: grey;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+h2 {
+    font-size: 19px;
+}
+#mapa {
+    height: 450px;
+    width: 100%;
+}
+
+
+.logos {
+    position: relative;
+    left: 30px;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 4ex;
+}
+h6 {
+    position: relative;
+    top: 25px;
+}

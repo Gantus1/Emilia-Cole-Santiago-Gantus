@@ -1,0 +1,36 @@
+#body {
+    width: 700px;
+}
+
+.hsh {
+    font-size: 15px;
+    position: relative;
+    left: 30px;
+    color: grey;
+    font-weight: lighter;
+}
+
+.logos {
+    position: relative;
+    left: 30px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 { 
+    font-size: 14px;
+
+}
+
+img {
+    width: 500px;
+
+}
+
+
+.orglove {
+    font-weight: bold;
+    
+}

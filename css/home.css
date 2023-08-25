@@ -1,0 +1,41 @@
+.hsh {
+    font-size: 15px;
+    position: relative;
+    left: 30px;
+    color: grey;
+    font-weight: lighter;
+}
+h2 {
+    font-size: 50px;
+    position: relative;
+    top: 130px;
+    color: rgba(0, 0, 0, 0.699);
+    font-weight: lighter;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto' , sans-serif;
+    font-family: 'Work Sans' , sans-serif;
+}
+h1 {
+    font-size: 80px;
+    background-color: rgba(255, 255, 255, 0.226);
+    position: relative;
+    top: 250px;
+    background-size: 1000px;
+    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
+}
+#body {
+    background-image: url(../imagenes/home.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 1050px;
+    margin: 0;
+    padding: 0;
+
+}
+
+.logos {
+    position: relative;
+    left: 30px;
+
+}
